@@ -19,7 +19,7 @@ Software Engineer
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.icons8.com/nolan/64/asus--v1.png" alt="asus--v1"/><img  height="30" src="https://img.icons8.com/nolan/64/intel-isef.png" alt="intel-isef"/>  
+<img height="50" width="50" src="https://img.icons8.com/nolan/64/asus--v1.png" alt="asus--v1"/><img  height="30" width="50" src="https://img.icons8.com/nolan/64/intel-isef.png" alt="intel-isef"/>  
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Madhavan0210?theme=dark&font=Marcellus&ext=heatmap)
 
