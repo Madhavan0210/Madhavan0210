@@ -21,8 +21,8 @@ Software Engineer
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![Madhavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhavan0210&theme=dark&show_icons=true&&hide=issues,contribs)
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Madhavan0210?theme=dark&font=Marcellus&ext=heatmap)
+
+![Madhavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhavan0210&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![Madhavan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Madhavan0210&bg_color=0d0d0d&color=ffffff&line=299959&point=c7c7c7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
