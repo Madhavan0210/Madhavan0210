@@ -20,7 +20,7 @@ Software Engineer
 
 ### 💻 Workspace Spec
 <img height="50" width="50" src="https://img.icons8.com/nolan/64/asus--v1.png" alt="asus--v1"/> 
-### View Counts
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Madhavan0210&label=Profile%20Views&color=0&icon=1&pretty=true" />
 </a>
