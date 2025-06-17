@@ -31,3 +31,8 @@ You can find me on  [![LinkedIn][1.2]][1]
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 <!-- Links to your social media accounts -->
 [1]:  https://www.linkedin.com/in/madhavanumapathi1008/
+
+### 👀 Profile Visitors
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Madhavan0210&color=blue&style=flat&label=Profile+Views)
+
