@@ -1,4 +1,4 @@
-## Hola, I'm Madhavan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello, I'm Madhavan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Madhavan and I am a Software Engineer. I 🎓 graduated with a Bachelor of Computer Applications (BCA) from Thiruvalluvar University in 2023
 
