@@ -17,12 +17,14 @@ My name is Madhavan and I am a Software Engineer. I 🎓 graduated with a Bachel
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=REACT&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=SPRING&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TYPESCRIPT&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JAVA&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=WINDOWS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=VISUALSTUDIOCODE&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=INTELLIJIDEA&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-EclipseIDE-informational?style=flat&logo=ECLIPSEIDE&logoColor=white&color=2bbc8a)
 
+## 📊 GitHub Status
+![Madhavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhavan0210&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavan0210&layout=compact&theme=radical)
 
 - 📫 How to reach me:
 <!-- Actual text -->
@@ -33,6 +35,4 @@ You can find me on  [![LinkedIn][1.2]][1]
 [1]:  https://www.linkedin.com/in/madhavanumapathi1008/
 
 ### 👀 Profile Visitors
-
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Madhavan0210&color=blue&style=flat&label=Profile+Views)
-
