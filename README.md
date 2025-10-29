@@ -2,7 +2,7 @@
 
 My name is Madhavan and I am a Software Engineer. I 🎓 graduated with a Bachelor of Computer Applications (BCA) from Thiruvalluvar University in 2023
 
-- 🔭 I’m currently working on my Machine Learning & DSA Concepts.
+- 🔭 I’m currently working on my Front End Dev & DSA Concepts.
 - 🌱 I’m currently exploring and grinding as a Full Stack Developer.
 - 🤔 Actively practicing DSA, with 650+ problems solved across LeetCode and GeeksforGeeks, consistently improving problem-solving skills.
 - 💬 Ask me about anything: Love cricket as much as I do? Let's talk about how awesome it is!!    
