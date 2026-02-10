@@ -22,10 +22,6 @@ My name is Madhavan and I am a Software Engineer. I 🎓 graduated with a Bachel
 ![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=INTELLIJIDEA&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-EclipseIDE-informational?style=flat&logo=ECLIPSEIDE&logoColor=white&color=2bbc8a)
 
-## 📊 GitHub Status
-![Madhavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhavan0210&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavan0210&layout=compact&theme=radical)
-
 - 📫 How to reach me:
 <!-- Actual text -->
 You can find me on  [![LinkedIn][1.2]][1]
