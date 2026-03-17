@@ -6,7 +6,7 @@ My name is Madhavan and I am a Software Engineer. I 🎓 graduated with a Bachel
 - 🌱 I’m currently exploring and grinding as a Full Stack Developer.
 - 🤔 Actively practicing DSA, with 700+ problems solved across LeetCode and GeeksforGeeks, consistently improving problem-solving skills.
 - 💬 Ask me about anything: Love cricket as much as I do? Let's talk about how awesome it is!!    
-- ⚡ Fun fact: Debugging at 2 AM has officially become my superpower — and yes, I’ve solved 650+ problems to prove it!
+- ⚡ Fun fact: Debugging in my dreams has officially become my superpower — and yes, I’ve solved 650+ problems to prove it!
 
 ## 🛠️ Technologies and Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JAVASCRIPT&logoColor=white&color=2bbc8a)
